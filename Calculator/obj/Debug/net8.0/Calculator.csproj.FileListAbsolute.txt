@@ -1,0 +1,14 @@
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso C# Balta.io\Calculator\obj\Debug\net8.0\ref\Calculator.dll
