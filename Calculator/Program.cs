@@ -14,6 +14,8 @@ class Program
     {
         Console.Clear();
 
+
+        Console.Write("");
         Console.WriteLine("O que deseja fazer?: ");
         Console.WriteLine("1 - Soma");
         Console.WriteLine("2 - Subtração");
