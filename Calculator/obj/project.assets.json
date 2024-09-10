@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\ESTUDOS_LACERDA\\Curso C# Balta.io\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_Balta.io\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso C# Balta.io\\Calculator\\Calculator.csproj",
+      "projectPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_Balta.io\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Lacerda\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso C# Balta.io\\Calculator\\obj\\",
+      "outputPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_Balta.io\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

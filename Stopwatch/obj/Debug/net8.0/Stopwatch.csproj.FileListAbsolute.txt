@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\bin\Debug\net8.0\Stopwatch.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\bin\Debug\net8.0\Stopwatch.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\bin\Debug\net8.0\Stopwatch.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\bin\Debug\net8.0\Stopwatch.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\refint\Stopwatch.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\Cronometro\obj\Debug\net8.0\ref\Stopwatch.dll
