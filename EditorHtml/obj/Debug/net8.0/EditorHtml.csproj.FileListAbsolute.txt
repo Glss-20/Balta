@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll

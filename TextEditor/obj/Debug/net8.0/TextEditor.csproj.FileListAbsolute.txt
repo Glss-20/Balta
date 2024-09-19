@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\bin\Debug\net8.0\TextEditor.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\bin\Debug\net8.0\TextEditor.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_Balta.io\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
